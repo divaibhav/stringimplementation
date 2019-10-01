@@ -51,5 +51,23 @@
             
             1. absoluteWeight will always be a positive value.
             2. LowerWeight can be find by adding all the lower case characters of the inputString.
+    
+   10. WAP to print index of given character ch from inputString.
         
-        
+                input:
+                char ch = 'a';
+                String inputString = "vaibhav";
+                   
+                output:
+                1        
+   
+   11. WAP to print all the index in newline of given character ch form the inputString.
+   
+            input:
+            char ch = 'a';
+            String inputString = "vaibhav";
+   
+            output:
+            1
+            5
+            
