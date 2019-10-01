@@ -21,4 +21,27 @@
    
    5. WAP to replace all the occurrence of given subString from the inputString. --- (**search library function for the task from the java docs** by using the link [https://docs.oracle.com/en/java/javase/13/docs/api/java.base/java/lang/String.html]).
    
+   6. WAP to change case of given inputString to uppercase by using ```String toUpperCase()```.
    
+   7. WAP to print the totalWeight of given inputString.
+            
+            totalWeight can be calculate by adding *ASCII* value of all the characters.
+                    for example:
+                    inputString = "Abc";
+                    totalWeight = 65 + 98 + 99;
+                    
+                    where ASCII values:
+                        A --> 65
+                        b --> 98
+                        c --> 99
+            
+   8. WAP to print UpperWeight of given inputString. UpperWeight can be find by adding all the upper case characters of the inputString.
+   
+   9. WAP to print AbsoluteWeight of given inputString. Absolute weigth can be calulated as:
+   
+            absoluteWeight = UpperWeight - LowerWeight;
+            
+            1. absoluteWeight will always be a positive value.
+            2. LowerWeight can be find by adding all the lower case characters of the inputString.
+        
+        
