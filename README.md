@@ -24,7 +24,8 @@
         1. first occurred vowel will be replaced by *.
         2. Second occurred vowel will be replaced by ^.
         3. Third occurred vowel will be replaced by !.
-        repeat the above process fro all occurred vowels.
+        
+        repeat the above process for all occurred vowels.
    
    5. WAP to replace all the occurrence of given subString from the inputString. --- (**search library function for the task from the java docs** by using the link [https://docs.oracle.com/en/java/javase/13/docs/api/java.base/java/lang/String.html]).
    
