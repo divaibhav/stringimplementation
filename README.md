@@ -12,6 +12,13 @@
    2. WAP to print substring of a given inputString by using ```String substring(int index)```. Accept inputString and index from user.
    
    3. WAP to accept inputString from user and replace all the vowels by *, by using ```String replace(char oldChar, char newChar)```.
+     
+            String s1 = "vaibhav";
+            s1 = s1.replace('a','*');
+            System.out.println(s1);
+            
+            output:
+            v*ibh*v
    
    4. Modify the above program so that:
         1. first occurred vowel will be replaced by *.
