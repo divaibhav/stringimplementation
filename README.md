@@ -1,4 +1,4 @@
-# String Handling Practice
+#String Handling Practice
  *by Using String, StringBuilder and StringBuffer*
  
  1. WAP to print any given inputString in following format.
@@ -8,7 +8,7 @@
         index:  0    1   2   3   4   
         chars:  H    e   l   l   o
         
-        Every character is seprated by tab use ```"\t"``` for inserting tab.
+        Every character is seprated by tab, use "\t" for inserting tab.
    2. WAP to print substring of a given inputString by using ```String substring(int index)```. Accept inputString and index from user.
    
    3. WAP to accept inputString from user and replace all the vowels by *, by using ```String replace(char oldChar, char newChar)```.
