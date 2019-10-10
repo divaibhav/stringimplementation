@@ -71,3 +71,20 @@
             1
             5
             
+   12. WAP to accept inputString1 and inputString2. And print the greater String as per the alphabetical order.
+   
+   13. WAP to created an object of StringBuilder/StringBuffer using the no-argument constructor. Use append function to append 16 characters. Print length and capacity after each append.
+   
+   14. Shyam wants to build program which will replace all the characters of given input string by space seprated underscore symbol.
+   
+            input:
+            inputString = "Shyam";
+            
+            output:       _ _ _ _ _
+   15. Shyam now wants to improve the above program and will replace all the underscores by the accepting characters from user.
+            
+            example:
+            if user entered a character 'a',
+            now shyan will replace 4th underscore by 'a', and display
+            
+            output: _ _ _ a _;
