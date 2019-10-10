@@ -11,5 +11,17 @@ public class Solution {
 
         String inputString = sc.nextLine();
 
+        System.out.print("Index:\t");
+
+        for (int i = 0; i < inputString.length() ; i++) {
+            System.out.print(i + "\t");
+        }
+        System.out.println();
+        System.out.print("chars:\t");
+        for (int i = 0; i < inputString.length() ; i++) {
+            char c = inputString.charAt(i);
+            System.out.print(c + "\t");
+        }
+
     }
 }
