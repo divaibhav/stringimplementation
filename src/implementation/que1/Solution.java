@@ -12,7 +12,7 @@ public class Solution {
         String inputString = sc.nextLine();
 
         System.out.print("Index:\t");
-
+        //for loop to print indexs
         for (int i = 0; i < inputString.length() ; i++) {
             System.out.print(i + "\t");
         }
