@@ -29,6 +29,15 @@
    
    5. WAP to replace all the occurrence of given subString from the inputString. --- (**search library function for the task from the java docs** by using the link [https://docs.oracle.com/en/java/javase/13/docs/api/java.base/java/lang/String.html]).
    
+            enter a string
+            hello123 world123 how123
+            enter substring to be replaced by new string
+            123
+            enter new string
+            456
+            output:
+            hello456 world456 how456
+   
    6. WAP to change case of given inputString to uppercase by using ```String toUpperCase()```.
    
    7. WAP to print the totalWeight of given inputString.
