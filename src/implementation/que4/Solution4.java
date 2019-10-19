@@ -1,5 +1,4 @@
 package implementation.que4;
-
 import java.util.Scanner;
 
 public class Solution4 {
@@ -41,4 +40,5 @@ public class Solution4 {
         }
         return  response;
     }
+
 }
