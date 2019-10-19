@@ -8,11 +8,9 @@ public class Solution7 {
         int totalWeigth = 0;
         for (int i = 0; i < inputString.length(); i++) {
             char charFromInputString = inputString.charAt(i);
-            if(Character.isAlphabetic(charFromInputString)) {
-                if (Character.isUpperCase(charFromInputString))
-                    totalWeigth = totalWeigth + charFromInputString;
-            }
+            totalWeigth = totalWeigth + charFromInputString;
         }
+
        System.out.println("total weigth = " + totalWeigth);
     }
 }
