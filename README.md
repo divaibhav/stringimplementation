@@ -88,4 +88,4 @@
             now shyan will replace 4th underscore by 'a', and display
             
             output: _ _ _ a _;
-   16. WAP to check whether 
+  
